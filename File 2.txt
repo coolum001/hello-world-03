@@ -1,1 +1,2 @@
-ine 1 of file 2
+Line 1 of file 2
+Line 2 of file 2 added in dev-branch-01
